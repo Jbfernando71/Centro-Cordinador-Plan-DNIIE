@@ -1,0 +1,55 @@
+name: Actualizar ciclón Simón
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-simon
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4 playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Validar archivos
+        run: |
+          test -f actualizar_simon_v1.py
+          test -f datos_simon.json
+          python -m py_compile actualizar_simon_v1.py
+
+      - name: Consultar aviso oficial de Simón
+        run: python actualizar_simon_v1.py
+
+      - name: Confirmar contenido JSON
+        run: python -m json.tool datos_simon.json > /dev/null
+
+      - name: Publicar los datos verificados
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add datos_simon.json
+          if git diff --cached --quiet; then
+            echo 'Sin cambios oficiales verificables.'
+          else
+            git commit -m 'Actualizar seguimiento SMN de Simón'
+            git push
+          fi
