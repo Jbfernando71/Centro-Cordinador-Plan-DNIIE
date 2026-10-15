@@ -2,15 +2,15 @@
   "ciclon": "Simón",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11096",
-  "aviso": 66,
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11097",
+  "aviso": 67,
   "fecha": "2026-10-15",
-  "hora": "09:00",
-  "gmt": "15:00",
+  "hora": "12:00",
+  "gmt": "18:00",
   "clasificacion": "Tormenta tropical",
-  "lat": "19.2",
+  "lat": "19.3",
   "lon": "108.1",
-  "referencia": "A 285 km al oeste-suroeste de Cabo Corrientes, Jal., y a 450 km al sur-sureste de Cabo San Lucas, B.C.S.",
+  "referencia": "A 280 km al oeste-suroeste de Cabo Corrientes, Jal., y a 435 km al sur-sureste de Cabo San Lucas, B.C.S.",
   "movimiento": "Estacionada",
   "viento": 95,
   "racha": 110,
@@ -19,7 +19,7 @@
   "lluvia": "Por el momento el sistema no genera efectos en el país",
   "viento_costero": null,
   "oleaje": null,
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792078127.jpg",
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792087579.jpg",
   "pronostico": [
     {
       "dia_hora": "15/18h",
@@ -35,7 +35,7 @@
       "lon": "108.8",
       "viento": "85/100",
       "categoria": "Tormenta tropical",
-      "ubicacion": "315 km al sur-sureste de Cabo San Lucas BCS."
+      "ubicacion": "A 315 km al sur-sureste de Cabo San Lucas BCS."
     },
     {
       "dia_hora": "16/18h",
