@@ -2,80 +2,64 @@
   "ciclon": "Simón",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11097",
-  "aviso": 67,
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11099",
+  "aviso": 68,
   "fecha": "2026-10-15",
-  "hora": "12:00",
-  "gmt": "18:00",
+  "hora": "15:00",
+  "gmt": "21:00",
   "clasificacion": "Tormenta tropical",
   "lat": "19.3",
-  "lon": "108.1",
-  "referencia": "A 280 km al oeste-suroeste de Cabo Corrientes, Jal., y a 435 km al sur-sureste de Cabo San Lucas, B.C.S.",
-  "movimiento": "Estacionada",
-  "viento": 95,
-  "racha": 110,
-  "presion": "996 hPa",
+  "lon": "108.2",
+  "referencia": "A 290 km al oeste-suroeste de Cabo Corrientes, Jal., y a 435 km al sur-sureste de Cabo San Lucas, B.C.S.",
+  "movimiento": "Hacia el noroeste (325°) a 2 km/h",
+  "viento": 85,
+  "racha": 100,
+  "presion": "999 hPa",
   "vigilancia": null,
-  "lluvia": "Por el momento el sistema no genera efectos en el país",
+  "lluvia": "Por el momento, el sistema no genera efectos en el país",
   "viento_costero": null,
   "oleaje": null,
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792087579.jpg",
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792098609.jpg",
   "pronostico": [
     {
-      "dia_hora": "15/18h",
-      "lat": "19.5",
-      "lon": "108.1",
-      "viento": "85/100",
-      "categoria": "Tormenta tropical",
-      "ubicacion": "A 275 km al oeste-suroeste de Cabo Corrientes Jal."
-    },
-    {
-      "dia_hora": "16/06h",
-      "lat": "20.2",
-      "lon": "108.8",
-      "viento": "85/100",
-      "categoria": "Tormenta tropical",
-      "ubicacion": "A 315 km al sur-sureste de Cabo San Lucas BCS."
-    },
-    {
-      "dia_hora": "16/18h",
-      "lat": "21.1",
-      "lon": "110.0",
+      "dia_hora": "16/00h",
+      "lat": "19.8",
+      "lon": "108.7",
       "viento": "75/95",
       "categoria": "Tormenta tropical",
-      "ubicacion": "A 195 km al sur de Cabo San Lucas BCS."
+      "ubicacion": "A 325 km al oeste-suroeste de Cabo Corrientes Jal."
     },
     {
-      "dia_hora": "17/06h",
-      "lat": "21.9",
-      "lon": "111.3",
+      "dia_hora": "16/12h",
+      "lat": "20.8",
+      "lon": "110.0",
       "viento": "65/85",
       "categoria": "Tormenta tropical",
-      "ubicacion": "A 180 km al suroeste de Cabo San Lucas BCS."
+      "ubicacion": "A 230 km al sur de Cabo San Lucas BCS."
     },
     {
-      "dia_hora": "17/18h",
-      "lat": "22.9",
-      "lon": "112.6",
+      "dia_hora": "17/00h",
+      "lat": "22.0",
+      "lon": "111.9",
       "viento": "55/75",
       "categoria": "Depresión tropical",
-      "ubicacion": "A 200 km al suroeste de Santa Fe BCS."
+      "ubicacion": "A 225 km al oeste-suroeste de Cabo San Lucas BCS."
     },
     {
-      "dia_hora": "18/06h",
-      "lat": "24.0",
+      "dia_hora": "17/12h",
+      "lat": "23.1",
       "lon": "113.6",
       "viento": "45/65",
       "categoria": "Post-Tropical/Remanentes",
-      "ubicacion": "A 160 km al oeste-suroeste de Cabo San Lázaro BCS."
+      "ubicacion": "A 230 km al suroeste de Cabo San Lázaro BCS."
     },
     {
-      "dia_hora": "19/06h",
-      "lat": "26.8",
-      "lon": "114.4",
-      "viento": "35/55",
+      "dia_hora": "18/00h",
+      "lat": "24.5",
+      "lon": "115.0",
+      "viento": "40/55",
       "categoria": "Post-Tropical/Remanentes",
-      "ubicacion": "A 85 km al oeste de Punta Abreojos BCS."
+      "ubicacion": "A 280 km al oeste de Cabo San Lázaro BCS."
     }
   ],
   "estado_seguimiento": "aviso_oficial"
