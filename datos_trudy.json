@@ -2,92 +2,84 @@
   "ciclon": "Trudy",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11118",
-  "aviso": 22,
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11119",
+  "aviso": 23,
   "fecha": "2026-10-16",
-  "hora": "18:00",
-  "gmt": "00:00",
-  "hora_oficial_texto": "18:00 horas (00:00 horas GMT del 00 del 17 de octubre)",
+  "hora": "21:00",
+  "gmt": "03:00",
+  "hora_oficial_texto": "21:00 horas (03:00 horas GMT del 17 de octubre)",
   "clasificacion": "Huracán categoría 1",
-  "lat": "15.0",
-  "lon": "102.6",
-  "referencia": "A 355 km al suroeste de Acapulco, Gro., y a 350 km al sur de Lázaro Cárdenas, Mich.",
-  "movimiento": "Hacia el nor-noroeste (330°) a 9 km/h",
-  "viento": 140,
-  "racha": 165,
-  "presion": "982 hPa",
-  "vigilancia": "Se mantiene zona de prevención por efectos de vientos de huracán desde Manzanillo, Col., hasta Cabo Corrientes, Jal., zona de vigilancia por efectos de vientos de huracán desde Manzanillo, Col., hasta Punta San Telmo, Mich.; zona de prevención por efectos de vientos de tormenta tropical desde Manzanillo, Col., hasta Zihuatanejo, Gro., y zona de vigilancia por efectos de vientos de tormenta tropical desde Cabo Corrientes, Jal., hasta San Blas, Nay.",
+  "lat": "15.2",
+  "lon": "102.5",
+  "referencia": "A 335 km al suroeste de Acapulco, Gro., y a 305 km al sur de Lázaro Cárdenas, Mich.",
+  "movimiento": "Hacia el norte (350°) a 11 km/h",
+  "viento": 150,
+  "racha": 185,
+  "presion": "979 hPa",
+  "vigilancia": "Se establece zona de vigilancia por efectos de tormenta tropical para las Islas Marías. Se mantiene zona de prevención por efectos de vientos de huracán desde Manzanillo, Col., hasta Cabo Corrientes, Jal., zona de vigilancia por efectos de vientos de huracán desde Manzanillo, Col., hasta Punta San Telmo, Mich., zona de prevención por efectos de vientos de tormenta tropical desde Manzanillo, Col., hasta Zihuatanejo, Gro., y zona de vigilancia por efectos de vientos de tormenta tropical desde Cabo Corrientes, Jal., hasta San Blas, Nay.",
   "lluvia": "Su circulación propiciará lluvias puntuales intensas (75 a 150 mm) en Guerrero (centro, este, sur y sureste) y Oaxaca (norte, centro, oeste y sur); lluvias puntuales muy fuertes (50 a 75 mm) en Colima y Michoacán (oeste, centro y sur); y lluvias puntuales fuertes (25 a 50 mm) en Jalisco (oeste y sur).",
   "viento_costero": "Se pronostica viento de 50 a 60 km/h con rachas de 70 a 90 km/h en la costa de Guerrero y Michoacán; viento de 10 a 20 km/h con rachas de 30 a 50 km/h en la costa de Jalisco y Colima.",
   "oleaje": "oleaje de 3.0 a 4.0 metros de altura en las costas de Guerrero y Michoacán.; oleaje de 2.5 a 3.5 metros de altura en las costas de Oaxaca y Colima; y oleaje de 2.0 a 3.0 metros de altura en las costas Jalisco.",
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792195467.jpg",
-  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792195467.jpg",
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792205902.jpg",
+  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792205902.jpg",
   "pronostico": [
     {
-      "dia_hora": "17/00h",
-      "lat": "15.5",
-      "lon": "103.1",
-      "viento": "140/170",
-      "categoria": "Huracán categoría 1",
-      "ubicacion": "A 290 km al sur-suroeste de Lázaro Cárdenas Mich."
+      "dia_hora": "17/06h",
+      "lat": "16.3",
+      "lon": "103.4",
+      "viento": "170/205",
+      "categoria": "Huracán categoría 2",
+      "ubicacion": "A 225 km al suroeste de Lázaro Cárdenas Mich."
     },
     {
-      "dia_hora": "17/12h",
-      "lat": "16.9",
-      "lon": "104.1",
+      "dia_hora": "17/18h",
+      "lat": "17.7",
+      "lon": "104.4",
+      "viento": "170/205",
+      "categoria": "Huracán categoría 2",
+      "ubicacion": "A 120 km al suroeste de Punta San Telmo Mich."
+    },
+    {
+      "dia_hora": "18/06h",
+      "lat": "19.0",
+      "lon": "105.3",
       "viento": "150/185",
       "categoria": "Huracán categoría 1",
-      "ubicacion": "A 170 km al sur-suroeste de Punta San Telmo Mich."
+      "ubicacion": "A 65 km al sur-suroeste de Playa Perula Jal."
     },
     {
-      "dia_hora": "18/00h",
-      "lat": "18.5",
-      "lon": "105.1",
-      "viento": "150/185",
-      "categoria": "Huracán categoría 1",
-      "ubicacion": "A 100 km al suroeste de Manzanillo Col."
-    },
-    {
-      "dia_hora": "18/12h",
-      "lat": "19.7",
-      "lon": "105.9",
+      "dia_hora": "18/18h",
+      "lat": "20.0",
+      "lon": "106.1",
       "viento": "140/170",
       "categoria": "Huracán categoría 1",
-      "ubicacion": "A 80 km al oeste de Playa Perula Jal."
+      "ubicacion": "A 65 km al suroeste de Cabo Corrientes Jal."
     },
     {
-      "dia_hora": "19/00h",
-      "lat": "20.5",
-      "lon": "106.6",
+      "dia_hora": "19/06h",
+      "lat": "20.6",
+      "lon": "106.8",
       "viento": "110/140",
       "categoria": "Tormenta tropical",
-      "ubicacion": "A 95 km al oeste de Cabo Corrientes Jal."
+      "ubicacion": "A 120 km al oeste de Cabo Corrientes Jal."
     },
     {
-      "dia_hora": "19/12h",
+      "dia_hora": "19/18h",
       "lat": "20.9",
-      "lon": "107.1",
+      "lon": "107.6",
       "viento": "85/100",
       "categoria": "Tormenta tropical",
-      "ubicacion": "A 160 km al oeste-noroeste de Cabo Corrientes Jal."
+      "ubicacion": "A 210 km al oeste-noroeste de Cabo Corrientes Jal."
     },
     {
-      "dia_hora": "20/12h",
-      "lat": "21.5",
-      "lon": "108.1",
+      "dia_hora": "20/18h",
+      "lat": "21.3",
+      "lon": "108.8",
       "viento": "55/75",
-      "categoria": "Depresión tropical",
-      "ubicacion": "A 290 km al oeste de San Blas, Nay."
-    },
-    {
-      "dia_hora": "21/12h",
-      "lat": "22.1",
-      "lon": "109.3",
-      "viento": "35/55",
-      "categoria": "Post-tropical/Remanentes",
-      "ubicacion": "A 100 km al sureste de Cabo san Lucas, B.C.S."
+      "categoria": "Post-tropical/remanentes",
+      "ubicacion": "A 320 km al suroeste de Mazatlán, Sin."
     }
   ],
   "estado_seguimiento": "aviso_oficial",
-  "verificado_utc": "2026-10-17T01:46:28.377328+00:00"
+  "verificado_utc": "2026-10-17T03:16:27.311238+00:00"
 }
