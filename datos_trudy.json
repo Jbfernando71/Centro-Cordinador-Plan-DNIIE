@@ -2,76 +2,76 @@
   "ciclon": "Trudy",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11130",
-  "aviso": 34,
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11131",
+  "aviso": 35,
   "fecha": "2026-10-18",
-  "hora": "06:00",
-  "gmt": "12:00",
-  "hora_oficial_texto": "06:00 horas (12:00 horas GMT)",
+  "hora": "09:00",
+  "gmt": "15:00",
+  "hora_oficial_texto": "09:00 horas (15:00 horas GMT)",
   "clasificacion": "Huracán categoría 2",
-  "lat": "18.9",
-  "lon": "106.6",
-  "referencia": "A 240 km al oeste de Manzanillo, Col., y a 170 km al oeste-suroeste de Playa Pérula, Jal.",
-  "movimiento": "Hacia el noroeste (320°) a 17 km/h",
+  "lat": "19.1",
+  "lon": "106.8",
+  "referencia": "A 185 km al suroeste de Cabo Corrientes, Jal., y a 180 km al oeste-suroeste de Playa Pérula, Jal.",
+  "movimiento": "Hacia el noroeste (325°) a 13 km/h",
   "viento": 165,
   "racha": 205,
   "presion": "970 hPa",
-  "vigilancia": "Se mantiene zona de prevención por efectos de vientos de huracán desde Manzanillo, Col., hasta Cabo Corrientes, Jal.; así como zona de prevención por efectos de vientos de tormenta tropical desde Cabo Corrientes, Jal., hasta San Blas, Nay., incluidas las Islas Marías. Se descontinúan zona de vigilancia por efectos de vientos de huracán y zona de prevención por vientos de tormenta tropical desde Manzanillo, Col., hasta Punta San Telmo, Mich.",
+  "vigilancia": "Se descontinúa la zona de prevención por efectos de vientos de huracán desde Manzanillo, Col., hasta Cabo Corrientes, Jal., y se establece zona de prevención por efectos de vientos de tormenta tropical desde Playa Pérula, Jal., hasta San Blas, Nay., incluyendo las Islas Marías.",
   "lluvia": "Su circulación propiciará lluvias muy fuertes (50 a 75 mm) en Jalisco (costa y sur) y lluvias fuertes (25 a 50 mm) en Colima y Nayarit (sur).",
   "viento_costero": null,
   "oleaje": null,
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792325651.jpg",
-  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792325651.jpg",
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792337927.jpg",
+  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792337927.jpg",
   "pronostico": [
     {
-      "dia_hora": "18/12h",
-      "lat": "19.5",
-      "lon": "106.9",
-      "viento": "170/205",
+      "dia_hora": "18/18h",
+      "lat": "19.7",
+      "lon": "107.2",
+      "viento": "160/195",
       "categoria": "Huracán categoría 2",
-      "ubicacion": "A 165 km al suroeste de Cabo Corrientes, Jal."
+      "ubicacion": "A 180 km al oeste-suroeste de Cabo Corrientes, Jal. y a 215 km al oeste de Playa Perula, Jal."
     },
     {
-      "dia_hora": "19/00h",
-      "lat": "20.2",
-      "lon": "107.5",
+      "dia_hora": "19/06h",
+      "lat": "20.1",
+      "lon": "107.8",
       "viento": "130/160",
       "categoria": "Huracán categoría 1",
-      "ubicacion": "A 190 km al oeste de Cabo Corrientes, Jal."
+      "ubicacion": "A 225 km al oeste de Cabo Corrientes, Jal. y a 285 km al oeste-noroeste de Playa Perula, Jal."
     },
     {
-      "dia_hora": "19/12h",
-      "lat": "20.4",
-      "lon": "107.9",
+      "dia_hora": "19/18h",
+      "lat": "20.3",
+      "lon": "108.4",
       "viento": "100/120",
       "categoria": "Tormenta tropical",
-      "ubicacion": "A 230 km al oeste de Cabo Corrientes, Jal."
+      "ubicacion": "A 285 km al oeste de Cabo Corrientes, Jal. y a 320 km al sur-sureste de Cabo San Lucas, BCS."
     },
     {
-      "dia_hora": "20/00h",
-      "lat": "20.7",
-      "lon": "108.5",
+      "dia_hora": "20/06h",
+      "lat": "20.6",
+      "lon": "109.0",
       "viento": "75/95",
       "categoria": "Tormenta tropical",
-      "ubicacion": "A 280 km al sur-sureste de Cabo San Lucas, BCS."
+      "ubicacion": "A 265 km al sur-sureste de Cabo San Lucas, BCS. y a 345 km al oeste de Cabo Corrientes, Jal."
     },
     {
-      "dia_hora": "20/12h",
-      "lat": "21.1",
-      "lon": "109.2",
+      "dia_hora": "20/18h",
+      "lat": "21.2",
+      "lon": "109.6",
       "viento": "55/75",
-      "categoria": "Post-Tropical/Remanentes",
-      "ubicacion": "A 210 km al sur-sureste de Cabo San Lucas, BCS."
+      "categoria": "Post-tropical/Remanentes",
+      "ubicacion": "A 185 km al sur de Cabo San Lucas, BCS. y a 395 km al suroeste de Mazatlán, Sin."
     },
     {
-      "dia_hora": "21/00h",
-      "lat": "21.6",
-      "lon": "109.7",
-      "viento": "45/65",
-      "categoria": "Post-Tropical/Remanentes",
-      "ubicacion": "A 140 km al sur de Cabo San Lucas, BCS."
+      "dia_hora": "21/06h",
+      "lat": "21.7",
+      "lon": "110.0",
+      "viento": "40/55",
+      "categoria": "Post-tropical/Remanentes",
+      "ubicacion": "A 130 km al sur de Cabo San Lucas, BCS. y a 405 km al oeste-suroeste de Mazatlán, Sin."
     }
   ],
   "estado_seguimiento": "aviso_oficial",
-  "verificado_utc": "2026-10-18T14:03:13.942662+00:00"
+  "verificado_utc": "2026-10-18T17:25:45.540112+00:00"
 }
