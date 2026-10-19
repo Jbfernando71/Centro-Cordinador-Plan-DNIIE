@@ -2,26 +2,26 @@
   "ciclon": "Trudy",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11133",
-  "aviso": 37,
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11134",
+  "aviso": 38,
   "fecha": "2026-10-18",
-  "hora": "15:00",
-  "gmt": "21:00",
-  "hora_oficial_texto": "15:00 horas (21:00 horas GMT)",
+  "hora": "18:00",
+  "gmt": "00:00",
+  "hora_oficial_texto": "18:00 horas (00:00 horas GMT del 19 de octubre)",
   "clasificacion": "Huracán categoría 2",
-  "lat": "19.5",
-  "lon": "107.0",
-  "referencia": "A 170 km al suroeste de Cabo Corrientes, Jal., y a 190 km al oeste de Playa Pérula, Jal.",
+  "lat": "19.4",
+  "lon": "107.8",
+  "referencia": "A 175 km al oeste-suroeste de Cabo Corrientes, Jal., y a 210 km al oeste de Playa Pérula, Jal.",
   "movimiento": "Hacia el noroeste (325°) a 9 km/h",
   "viento": 155,
   "racha": 195,
   "presion": "974 hPa",
-  "vigilancia": "Se han descontinuado las zonas de prevención por efectos de vientos de tormenta tropical desde Playa Pérula, Jal., hasta San Blas, Nay., incluyendo las Islas Marías.",
-  "lluvia": "Su circulación propiciará lluvias muy fuertes (50 a 75 mm) en Jalisco (costa y sur) y lluvias fuertes (25 a 50 mm) en Colima y Nayarit (sur).",
-  "viento_costero": null,
-  "oleaje": null,
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792358413.jpg",
-  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792358413.jpg",
+  "vigilancia": null,
+  "lluvia": "Su circulación ocasionará lluvias muy fuertes (50 a 75 mm) en Jalisco (costa y sur) y lluvias fuertes (25 a 50 mm) en Colima y Nayarit (sur).",
+  "viento_costero": "Se pronostica viento de 40 a 60 km/h con rachas de 70 a 90 km/h y oleaje de 3.0 a 5.0 metros de altura (disminuyendo durante la noche) en la costa de Jalisco; viento de 20 a 30 km/h con rachas de 40 a 60 km/h y oleaje de 2.0 a 3.0 metros de altura en las costas de Nayarit (sur) y Colima;",
+  "oleaje": "oleaje de 2.0 a 3.0 metros de altura en la costa de Michoacán.",
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792369429.jpg",
+  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792369429.jpg",
   "pronostico": [
     {
       "dia_hora": "19/00h",
@@ -29,7 +29,7 @@
       "lon": "107.4",
       "viento": "150/185",
       "categoria": "Huracán categoría 1",
-      "ubicacion": "A 190 km al oeste-suroeste de Cabo Corrientes, Jal. y a 240 km al oeste de Playa Perula, Jal."
+      "ubicacion": "A 190 km al oeste-suroeste de Cabo Corrientes, Jal. y a 240 km al oeste de Playa Pérula, Jal."
     },
     {
       "dia_hora": "19/12h",
@@ -37,7 +37,7 @@
       "lon": "108.0",
       "viento": "120/150",
       "categoria": "Huracán categoría 1",
-      "ubicacion": "A 245 km al oeste de Cabo Corrientes, Jal. y a 305 km al oeste de Playa Perula, Jal."
+      "ubicacion": "A 245 km al oeste de Cabo Corrientes, Jal. y a 305 km al oeste de Playa Pérula, Jal."
     },
     {
       "dia_hora": "20/00h",
@@ -53,7 +53,7 @@
       "lon": "109.3",
       "viento": "75/95",
       "categoria": "Tormenta tropical",
-      "ubicacion": "A 245 km al sur-sureste de Cabo San Lucas, BCS. y a 380 km al oeste de Cabo Corrientes, Jal."
+      "ubicacion": "A 245 km al sur-sureste de Cabo San Lucas, BCS. y 380 km al oeste de Cabo Corrientes, Jal."
     },
     {
       "dia_hora": "21/00h",
@@ -73,5 +73,5 @@
     }
   ],
   "estado_seguimiento": "aviso_oficial",
-  "verificado_utc": "2026-10-18T23:20:27.072894+00:00"
+  "verificado_utc": "2026-10-19T00:50:42.335245+00:00"
 }
