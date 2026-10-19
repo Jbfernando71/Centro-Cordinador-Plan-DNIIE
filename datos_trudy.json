@@ -2,76 +2,68 @@
   "ciclon": "Trudy",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11134",
-  "aviso": 38,
-  "fecha": "2026-10-18",
-  "hora": "18:00",
-  "gmt": "00:00",
-  "hora_oficial_texto": "18:00 horas (00:00 horas GMT del 19 de octubre)",
-  "clasificacion": "Huracán categoría 2",
-  "lat": "19.4",
-  "lon": "107.8",
-  "referencia": "A 175 km al oeste-suroeste de Cabo Corrientes, Jal., y a 210 km al oeste de Playa Pérula, Jal.",
-  "movimiento": "Hacia el noroeste (325°) a 9 km/h",
-  "viento": 155,
-  "racha": 195,
-  "presion": "974 hPa",
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11137",
+  "aviso": 41,
+  "fecha": "2026-10-19",
+  "hora": "03:00",
+  "gmt": "09:00",
+  "hora_oficial_texto": "03:00 horas (09:00 horas GMT)",
+  "clasificacion": "Tormenta tropical",
+  "lat": "19.7",
+  "lon": "108.0",
+  "referencia": "A 250 km al oeste-suroeste de Cabo Corrientes, Jal.",
+  "movimiento": "Hacia el oeste (280°) a 9 km/h.",
+  "viento": 95,
+  "racha": 110,
+  "presion": "999 hPa",
   "vigilancia": null,
-  "lluvia": "Su circulación ocasionará lluvias muy fuertes (50 a 75 mm) en Jalisco (costa y sur) y lluvias fuertes (25 a 50 mm) en Colima y Nayarit (sur).",
-  "viento_costero": "Se pronostica viento de 40 a 60 km/h con rachas de 70 a 90 km/h y oleaje de 3.0 a 5.0 metros de altura (disminuyendo durante la noche) en la costa de Jalisco; viento de 20 a 30 km/h con rachas de 40 a 60 km/h y oleaje de 2.0 a 3.0 metros de altura en las costas de Nayarit (sur) y Colima;",
-  "oleaje": "oleaje de 2.0 a 3.0 metros de altura en la costa de Michoacán.",
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792369429.jpg",
-  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792369429.jpg",
+  "lluvia": "Su circulación ocasiona lluvias fuertes (25 a 50 mm) en Jalisco (costa ) y chubascos (5 a 25 mm) en Baja California Sur.",
+  "viento_costero": null,
+  "oleaje": null,
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792400567.jpg",
+  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792400567.jpg",
   "pronostico": [
     {
-      "dia_hora": "19/00h",
-      "lat": "19.9",
-      "lon": "107.4",
-      "viento": "150/185",
-      "categoria": "Huracán categoría 1",
-      "ubicacion": "A 190 km al oeste-suroeste de Cabo Corrientes, Jal. y a 240 km al oeste de Playa Pérula, Jal."
-    },
-    {
       "dia_hora": "19/12h",
-      "lat": "20.1",
-      "lon": "108.0",
-      "viento": "120/150",
-      "categoria": "Huracán categoría 1",
-      "ubicacion": "A 245 km al oeste de Cabo Corrientes, Jal. y a 305 km al oeste de Playa Pérula, Jal."
+      "lat": "19.6",
+      "lon": "108.4",
+      "viento": "75/95",
+      "categoria": "Tormenta tropical",
+      "ubicacion": "A 300 km al oeste-suroeste de Cabo Corrientes, Jal."
     },
     {
       "dia_hora": "20/00h",
-      "lat": "20.3",
-      "lon": "108.7",
-      "viento": "95/110",
-      "categoria": "Tormenta tropical",
-      "ubicacion": "A 310 km al sur-sureste de Cabo San Lucas, BCS. y a 315 km al oeste de Cabo Corrientes, Jal."
+      "lat": "19.6",
+      "lon": "109.0",
+      "viento": "65/85",
+      "categoria": "Post-tropical/Remanentes",
+      "ubicacion": "A 360 km al oeste-suroeste de Cabo Corrientes, Jal."
     },
     {
       "dia_hora": "20/12h",
-      "lat": "20.7",
-      "lon": "109.3",
-      "viento": "75/95",
-      "categoria": "Tormenta tropical",
-      "ubicacion": "A 245 km al sur-sureste de Cabo San Lucas, BCS. y 380 km al oeste de Cabo Corrientes, Jal."
-    },
-    {
-      "dia_hora": "21/00h",
-      "lat": "21.4",
+      "lat": "19.8",
       "lon": "109.7",
       "viento": "55/75",
       "categoria": "Post-tropical/Remanentes",
-      "ubicacion": "A 160 km al sur de Cabo San Lucas, BCS. y a 315 km al sur-sureste de La Paz, BCS."
+      "ubicacion": "A 340 km al sur de Cabo San Lucas, B.C.S."
+    },
+    {
+      "dia_hora": "21/00h",
+      "lat": "20.2",
+      "lon": "110.1",
+      "viento": "45/65",
+      "categoria": "Post-tropical/Remanentes",
+      "ubicacion": "A 295 km al sur de Cabo San Lucas, B.C.S."
     },
     {
       "dia_hora": "21/12h",
-      "lat": "21.9",
-      "lon": "110.2",
+      "lat": "20.7",
+      "lon": "110.6",
       "viento": "40/55",
       "categoria": "Post-tropical/Remanentes",
-      "ubicacion": "A 110 km al sur-suroeste de Cabo San Lucas, BCS. y a 250 km al sur de La Paz, BCS."
+      "ubicacion": "A 250 km al sur-suroeste de Cabo San Lucas, B.C.S."
     }
   ],
   "estado_seguimiento": "aviso_oficial",
-  "verificado_utc": "2026-10-19T00:50:42.335245+00:00"
+  "verificado_utc": "2026-10-19T10:53:17.927636+00:00"
 }
