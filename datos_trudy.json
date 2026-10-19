@@ -2,68 +2,60 @@
   "ciclon": "Trudy",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11139",
-  "aviso": 43,
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11141",
+  "aviso": 45,
   "fecha": "2026-10-19",
-  "hora": "09:00",
-  "gmt": "15:00",
-  "hora_oficial_texto": "09:00 horas (15:00 horas GMT)",
+  "hora": "15:00",
+  "gmt": "21:00",
+  "hora_oficial_texto": "15:00 horas (21:00 horas GMT)",
   "clasificacion": "Tormenta tropical",
-  "lat": "19.5",
-  "lon": "108.5",
-  "referencia": "A 310 km al oeste-suroeste de Cabo Corrientes, Jal., y a 400 km al sur-sureste de Cabo San Lucas, B.C.S.",
-  "movimiento": "Hacia el oeste-suroeste (250°) a 11 km/h",
-  "viento": 95,
-  "racha": 110,
-  "presion": "999 hPa",
+  "lat": "19.3",
+  "lon": "107.9",
+  "referencia": "A 260 km al oeste-suroeste de Cabo Corrientes, Jal., y a 460 km al sur-sureste de Cabo San Lucas, B.C.S.",
+  "movimiento": "Estacionario",
+  "viento": 65,
+  "racha": 85,
+  "presion": "1004 hPa",
   "vigilancia": null,
   "lluvia": "Su circulación ocasiona lluvias fuertes (25 a 50 mm) en Jalisco (costa ) y chubascos (5 a 25 mm) en Baja California Sur (sur).",
   "viento_costero": null,
   "oleaje": null,
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792423078.jpg",
-  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792423078.jpg",
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792443804.jpg",
+  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792443804.jpg",
   "pronostico": [
     {
-      "dia_hora": "19/18h",
-      "lat": "19.5",
-      "lon": "108.7",
-      "viento": "75/95",
-      "categoria": "Tormenta tropical",
-      "ubicacion": "A 330 km al oeste-suroeste de Cabo Corrientes Jal.; y a 375 km al oeste de Playa Pérula Jal."
+      "dia_hora": "20/00h",
+      "lat": "19.4",
+      "lon": "108.3",
+      "viento": "55/75",
+      "categoria": "Depresión tropical",
+      "ubicacion": "A 295 km al oeste-suroeste de Cabo Corrientes, Jal., y a 330 km al oeste de Playa Pérula, Jal."
     },
     {
-      "dia_hora": "20/06h",
+      "dia_hora": "20/12h",
       "lat": "19.5",
-      "lon": "109.4",
-      "viento": "65/85",
-      "categoria": "Post-tropical / Remanentes",
-      "ubicacion": "A 375 km al sur de Cabo San Lucas B.C.S.; y a 400 km al oeste-suroeste de Cabo Corrientes Jal."
-    },
-    {
-      "dia_hora": "20/18h",
-      "lat": "19.9",
-      "lon": "110.0",
+      "lon": "108.9",
       "viento": "55/75",
       "categoria": "Post-tropical / Remanentes",
-      "ubicacion": "A 330 km al sur de Cabo San Lucas B.C.S.; y a 455 km al oeste de Cabo Corrientes Jal."
+      "ubicacion": "A 350 km al oeste-suroeste de Cabo Corrientes, Jal., y a 385 km al sur-sureste de Cabo San Lucas, B.C.S."
     },
     {
-      "dia_hora": "21/06h",
-      "lat": "20.3",
-      "lon": "110.5",
+      "dia_hora": "21/00h",
+      "lat": "19.8",
+      "lon": "109.3",
       "viento": "45/65",
       "categoria": "Post-tropical / Remanentes",
-      "ubicacion": "A 290 km al sur-suroeste de Cabo San Lucas B.C.S.; y a 430 km al sur de Santa Fe B.C.S."
+      "ubicacion": "A 345 km al sur de Cabo San Lucas, B.C.S., y a 385 km al oeste de Cabo Corrientes, Jal."
     },
     {
-      "dia_hora": "21/18h",
-      "lat": "20.9",
-      "lon": "111.0",
-      "viento": "40/55",
+      "dia_hora": "21/12h",
+      "lat": "20.2",
+      "lon": "109.5",
+      "viento": "45/65",
       "categoria": "Post-tropical / Remanentes",
-      "ubicacion": "A 245 km al sur-suroeste de Cabo San Lucas B.C.S.; y a 355 km al sur de Santa Fe B.C.S."
+      "ubicacion": "A 300 km al sur de Cabo San Lucas, B.C.S., y a 400 km al oeste de Cabo Corrientes, Jal."
     }
   ],
   "estado_seguimiento": "aviso_oficial",
-  "verificado_utc": "2026-10-19T17:33:13.634156+00:00"
+  "verificado_utc": "2026-10-19T22:27:06.674437+00:00"
 }
