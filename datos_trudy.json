@@ -2,16 +2,16 @@
   "ciclon": "Trudy",
   "fuente": "SMN / CONAGUA",
   "url_oficial": "https://smn.conagua.gob.mx/es/pronosticos/avisos/aviso-de-ciclon-tropical-en-el-oceano-pacifico",
-  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11141",
-  "aviso": 45,
+  "url_datos": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebAviso?searchText=11142",
+  "aviso": 46,
   "fecha": "2026-10-19",
-  "hora": "15:00",
-  "gmt": "21:00",
-  "hora_oficial_texto": "15:00 horas (21:00 horas GMT)",
+  "hora": "18:00",
+  "gmt": "00:00",
+  "hora_oficial_texto": "18:00 horas (00:00 horas GMT del 20 de octubre)",
   "clasificacion": "Tormenta tropical",
   "lat": "19.3",
-  "lon": "107.9",
-  "referencia": "A 260 km al oeste-suroeste de Cabo Corrientes, Jal., y a 460 km al sur-sureste de Cabo San Lucas, B.C.S.",
+  "lon": "108.0",
+  "referencia": "a 270 km al oeste-suroeste de Cabo Corrientes, Jal., y a 440 km al sur-sureste de Cabo San Lucas, B.C.S.",
   "movimiento": "Estacionario",
   "viento": 65,
   "racha": 85,
@@ -20,8 +20,8 @@
   "lluvia": "Su circulación ocasiona lluvias fuertes (25 a 50 mm) en Jalisco (costa ) y chubascos (5 a 25 mm) en Baja California Sur (sur).",
   "viento_costero": null,
   "oleaje": null,
-  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792443804.jpg",
-  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792443804.jpg",
+  "mapa": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgTray1792455055.jpg",
+  "satelite": "https://smn.conagua.gob.mx/tools/GUI/PortalLaravel/public/WebImg/ImgSat1792455055.jpg",
   "pronostico": [
     {
       "dia_hora": "20/00h",
@@ -53,9 +53,9 @@
       "lon": "109.5",
       "viento": "45/65",
       "categoria": "Post-tropical / Remanentes",
-      "ubicacion": "A 300 km al sur de Cabo San Lucas, B.C.S., y a 400 km al oeste de Cabo Corrientes, Jal."
+      "ubicacion": "300 km al sur de Cabo San Lucas, B.C.S., y a 400 km al oeste de Cabo Corrientes, Jal."
     }
   ],
   "estado_seguimiento": "aviso_oficial",
-  "verificado_utc": "2026-10-19T22:27:06.674437+00:00"
+  "verificado_utc": "2026-10-20T01:49:30.298695+00:00"
 }
